@@ -10,3 +10,8 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+.cache/clangd/index
+build/.cmake/api/v1/query/client-neocmake
+planing.txt
+build/build_linux
+build/build_win
